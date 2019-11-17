@@ -1,0 +1,14 @@
+
+******************************************************************
+      Los nombres de los usuarios y las fechas de inicio son: 
+******************************************************************
+
+Usuario: ana_director                   Fecha: 2019-11-13 11:21:14
+Usuario: ana_director                   Fecha: 2019-11-13 11:21:39
+Usuario: ana_director                   Fecha: 2019-11-13 11:23:36
+Usuario: juan_director                  Fecha: 2019-11-13 11:21:09
+Usuario: juan_director                  Fecha: 2019-11-13 11:21:33
+Usuario: juan_director                  Fecha: 2019-11-13 11:21:43
+Usuario: juan_director                  Fecha: 2019-11-13 11:23:29
+Usuario: maria_director                 Fecha: 2019-11-13 11:21:27
+
