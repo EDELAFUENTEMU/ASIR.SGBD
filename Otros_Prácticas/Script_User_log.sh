@@ -1,4 +1,6 @@
 #!/bin/bash
+#Script devuelve el número de conexiones por usuario a la base de datos mysql.
+
 clear
 ruta_log='/var/log/mysql/mysql.log'
 if [[ -f $ruta_log ]];then
